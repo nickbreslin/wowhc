@@ -1,5 +1,5 @@
 # wowhc
-World of Warcraft - Hardcore
+## World of Warcraft - Hardcore
 
 Death = Delete
 
@@ -37,3 +37,12 @@ Gnome Warlock, Level 10
 Void Walker Quest
 
 ~ 4 hours.
+
+
+## Eastador (ALIVE!!)
+
+Gnome Warlock, Level 27
+
+Progressing through Wetlands.
+
+~40 hours
